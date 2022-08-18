@@ -65,6 +65,13 @@
       "cost": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "name": "brunsof",
+      "budget": "2000",
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
