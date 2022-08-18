@@ -1,0 +1,92 @@
+{
+  "projects": [
+    {
+      "name": "skdosl",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "aaaaa",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "hj",
+      "budget": "6",
+      "category": {
+        "id": "5",
+        "name": "outros"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Bruno eu ",
+      "budget": "2000",
+      "category": {
+        "id": "4",
+        "name": "planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "skdoskdksld skf",
+      "budget": "2000",
+      "category": {
+        "id": "5",
+        "name": "outros"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "sjsos",
+      "budget": "10",
+      "category": {
+        "id": "4",
+        "name": "planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "design"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    },
+    {
+      "id": 5,
+      "name": "outros"
+    }
+  ]
+}
